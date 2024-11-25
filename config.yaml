@@ -1,0 +1,48 @@
+cookie:
+  expiry_days: 30
+  key: some_random_key
+  name: streamlit_auth
+credentials:
+  usernames:
+    fthj:
+      email: cgvbhjk
+      name: rtybn
+      password: $2b$12$gj2meVhLU/eP/hXDILeE/.eHcLg6emS0wlrtuEoHgCRoTR69hSjpq
+    rashmi:
+      email: rash@gmail.com
+      name: rash k
+      password: $2b$12$Sn4jJbLsyKoPg535sQFTdu5UsXqWPOy8hOin2Ogs9s9uXIFaDu95e
+    sam:
+      email: s1@gmail.com
+      name: rash k
+      password: $2b$12$D.AdrPEgmZCyXzOjy8bXauJENiIxCgO21aNFnvIeuryx5AFAB9Gva
+    samrat:
+      email: s@gmail.com
+      name: rash k
+      password: $2b$12$ng/SE7B43cGI/znZ57m/xuA8tN9fgawB3987Ju55i9X8an6ATlllO
+    sheetal:
+      email: svggamer180@gmail.com
+      name: sheetal gupta
+      password: $2b$12$HLSZZWS9TmFvKRsMqbJEkOgrdpLFO9l0XNN480bsEwG40UHXpldqq
+    shreyansh:
+      email: shreyansh2304@gmail.com
+      name: shreyansh telrandhe
+      password: $2b$12$NSdyGrPgi2U8Zgynt4wl2uHmUg8HqF/ESZqLnrCMkxZTQeE6u59rO
+    shreyash:
+      email: sahushreyash48@gmail.com
+      name: shreyash sahu
+      password: $2b$12$ClBozQ3MPFLUz97/JPmewudFzFlsoip6ueREg5wRfi15LYIPHOCWK
+    silvi:
+      email: guptasilvi123@gmail.com
+      name: silvi gupta
+      password: $2b$12$1f2.U0L0ty1feOabfqCsheMJ9xQXYF7NmNQria0QgpAgS3vUUW1Eq
+    swar:
+      email: swar@gmail.com
+      name: swar dhillon
+      password: $2b$12$10o.tT1IMi77NhvJEJoB1erX7GxtqaUOeFp2GUXycOZEmCe60CvNW
+    swara:
+      email: prath@gmail.com
+      name: swar dhillon
+      password: $2b$12$zlGKq5RK2R4G7BDQD2.vp.s.MUww55.Lg6dkxJZjC5LaYN2qUHOPe
+preauthorized:
+  emails: []
