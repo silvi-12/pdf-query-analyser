@@ -114,7 +114,14 @@ def main():
         st.title("Login/Register")
 
         # Login form
-        name, authentication_status, username = authenticator.login(location='main')
+        # name, authentication_status, username = authenticator.login(location='main')
+        try:
+            name, authentication_status, username = authenticator.login(location='main')
+        except TypeError as e:
+            st.error(f"Login failed with error: {e}")
+            # You can also print the exact values returned from the authenticator for debugging
+            st.write(f"Authenticator returned: {authenticator.login(location='main')}")
+
 
         # Variable to track whether registration is complete
         registration_complete = st.session_state.get("registration_complete", False)
